@@ -1,0 +1,24 @@
+body, header, h1, h2, p{
+    margin: 0;
+    paddin: 0;
+}
+header{
+    background-color: gray;
+    height: 180px;
+    text-align: center;
+}
+.header-element{
+    display: inline;
+}
+h1{
+    padding: 10px;
+    font-size: 50px;
+}
+h2{
+    padding: 20px;
+}
+#div1{
+    width: 50%;
+    margin: 0 auto;
+    border: 5px solid black;
+}
